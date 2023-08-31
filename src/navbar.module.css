@@ -1,0 +1,23 @@
+#navbar {
+  font-weight: 700;
+  background-color: black;
+  display: flex;
+}
+.btn {
+  border: 1px solid white;
+  border-bottom: none;
+  border-top: none;
+  color: white;
+  height: 3rem;
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.btn:first-child {
+  border-left: none;
+}
+.btn:last-child {
+  border-right: none;
+}

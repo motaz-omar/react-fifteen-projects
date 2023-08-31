@@ -1,0 +1,30 @@
+.error-page {
+  display: flex;
+  justify-content: center;
+}
+#error-container {
+  text-align: center;
+  text-transform: capitalize;
+}
+.section {
+  padding: 5rem 0;
+}
+
+.btn {
+  text-transform: uppercase;
+  letter-spacing: 0.3rem;
+  color: #476a2e;
+  border: 2px solid #476a2e;
+  padding: 0.45rem 0.8rem;
+  display: inline-block;
+  transition: all 0.3s linear;
+  cursor: pointer;
+  font-size: 0.8rem;
+  background: transparent;
+  border-radius: 0.25rem;
+  display: inline-block;
+}
+.btn:hover {
+  background: #476a2e;
+  color: white;
+}
