@@ -8,7 +8,7 @@ import TabsApp from "./Apps/tabs/TabsApp";
 import SliderApp from "./Apps/slider/SliderApp";
 import LoremIpsumApp from "./Apps/lorem_ipsum/LoremIpsumApp";
 import GroceryBudApp from "./Apps/grocery_bud/GroceryBudApp";
-import NavbarApp from "./Apps/Navbar/NavbarApp";
+import NavbarApp from "./Apps/navbar/NavbarApp";
 import SidebarApp from "./Apps/sidebar/SidebarApp";
 import Navbar from "./Navbar";
 import StripeSubmenusApp from "./Apps/stripe_submenus/StripeSubmenusApp";
